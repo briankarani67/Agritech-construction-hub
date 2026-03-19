@@ -1,16 +1,22 @@
-# React + Vite
+🏗️ AgriTech Koome & Engineering
+A high-performance, responsive React.js frontend application designed for a dual-purpose business: Civil Engineering (Construction) and Modern AgriTech Solutions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Dual-Sector Branding: Seamlessly integrates construction engineering services with agricultural technology solutions.
 
-Currently, two official plugins are available:
+AgriTech Solutions Hub: Highlights precision irrigation, livestock management, and pest control.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Promotion Engine: Dedicated section for the "40% OFF" gardening services offer.
 
-## React Compiler
+Engineering Showcase: Professional layout for structural design and project management services.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Kenya-Centric Integration: Direct call-to-action for phone consultations and M-Pesa ready notices.
 
-## Expanding the ESLint configuration
+Pure React & CSS: Built without external CSS frameworks (No Tailwind/Bootstrap) for a lightweight, custom-styled experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+Frontend: React.js (Functional Components & Hooks)
+
+Styling:  CSS
+
+Deployment: Optimized for Vercel or Netlify
